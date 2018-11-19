@@ -1,0 +1,28 @@
+_repo: Modern-French-Masters_58279
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Harrison, Alexander
+    gutenberg_agent_id: '49869'
+    url: http://www.gutenberg.org/2009/agents/49869
+creator:
+  author:
+    agent_name: Van Vorst, Marie
+    alias: Vorst, Marie van
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '5921'
+    url: http://www.gutenberg.org/2009/agents/5921
+description: ''
+gutenberg_issued: '2018-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Modern French Masters
+url: http://www.gutenberg.org/ebooks/58279
