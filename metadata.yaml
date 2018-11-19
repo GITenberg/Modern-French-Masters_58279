@@ -1,10 +1,13 @@
 _repo: Modern-French-Masters_58279
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Harrison, Alexander
     gutenberg_agent_id: '49869'
     url: http://www.gutenberg.org/2009/agents/49869
+covers:
+- cover_type: archival
+  image_path: 58279-h/images/cover.jpg
 creator:
   author:
     agent_name: Van Vorst, Marie
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '5921'
     url: http://www.gutenberg.org/2009/agents/5921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58279#Modern-French-Masters
 gutenberg_issued: '2018-11-13'
 gutenberg_type: Text
 identifiers:
